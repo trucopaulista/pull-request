@@ -2,4 +2,4 @@
 
 ## Primeiro pull request
 
-## Segundo commit
+## Segundo commit, revisado
